@@ -1,0 +1,14 @@
+IMAGE          CREATED          CREATED BY                                      SIZE      COMMENT
+06e1f520a447   37 minutes ago   CMD ["sleep" "infinity"]                        0B        buildkit.dockerfile.v0
+<missing>      37 minutes ago   WORKDIR /work                                   8.19kB    buildkit.dockerfile.v0
+<missing>      37 minutes ago   RUN /bin/sh -c apt-get update &&     apt-get…   179MB     buildkit.dockerfile.v0
+<missing>      5 weeks ago      /bin/sh -c #(nop) CMD ["bash"]                  136MB     
+<missing>      5 weeks ago      /bin/sh -c #(nop) ENV LANG=C.UTF-8              0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) ADD file:be881d1d96b012b8e…   0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) LABEL org.opencontainers.i…   0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) ARG BUILD_DATE PROJECT_URL…   0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) ARG BUILD_DATE PROJECT_URL…   0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) ARG BUILD_DATE PROJECT_URL…   0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) ARG BUILD_DATE PROJECT_URL…   0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) ARG BUILD_DATE VERSION        0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) ARG BUILD_DATE                0B        
